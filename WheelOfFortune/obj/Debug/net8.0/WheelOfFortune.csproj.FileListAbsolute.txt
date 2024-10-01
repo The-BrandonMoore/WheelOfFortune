@@ -1,0 +1,14 @@
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\bin\Debug\net8.0\WheelOfFortune.exe
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\bin\Debug\net8.0\WheelOfFortune.deps.json
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\bin\Debug\net8.0\WheelOfFortune.runtimeconfig.json
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\bin\Debug\net8.0\WheelOfFortune.dll
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\bin\Debug\net8.0\WheelOfFortune.pdb
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.AssemblyInfoInputs.cache
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.AssemblyInfo.cs
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.csproj.CoreCompileInputs.cache
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.dll
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\refint\WheelOfFortune.dll
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.pdb
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.genruntimeconfig.cache
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\ref\WheelOfFortune.dll
