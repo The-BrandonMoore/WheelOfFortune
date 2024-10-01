@@ -12,3 +12,4 @@ C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Deb
 C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.pdb
 C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.genruntimeconfig.cache
 C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\ref\WheelOfFortune.dll
+C:\repos\maximum-bc-20240819\C-sharp-repos\WheelOfFortune\WheelOfFortune\obj\Debug\net8.0\WheelOfFortune.sourcelink.json

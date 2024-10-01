@@ -35,8 +35,7 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-30T13:50:29.16Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -56,8 +55,7 @@
               "RelativeToolTip": "WheelOfFortune\\Models\\Wheel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T14:24:07.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T14:24:07.648Z"
             },
             {
               "$type": "Document",
@@ -65,9 +63,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\repos\\maximum-bc-20240819\\C-sharp-repos\\WheelOfFortune\\WheelOfFortune\\Program.cs",
               "RelativeDocumentMoniker": "WheelOfFortune\\Program.cs",
-              "ToolTip": "C:\\repos\\maximum-bc-20240819\\C-sharp-repos\\WheelOfFortune\\WheelOfFortune\\Program.cs*",
-              "RelativeToolTip": "WheelOfFortune\\Program.cs*",
-              "ViewState": "AgIAAK8AAAAAAAAAAAAAAM4AAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\repos\\maximum-bc-20240819\\C-sharp-repos\\WheelOfFortune\\WheelOfFortune\\Program.cs",
+              "RelativeToolTip": "WheelOfFortune\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T00:19:18.294Z",
               "EditorCaption": ""

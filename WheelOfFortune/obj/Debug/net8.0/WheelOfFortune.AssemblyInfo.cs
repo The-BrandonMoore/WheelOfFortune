@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WheelOfFortune")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17671451b9eac35f56a0223961fd4746397ae635")]
 [assembly: System.Reflection.AssemblyProductAttribute("WheelOfFortune")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WheelOfFortune")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

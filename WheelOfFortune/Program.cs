@@ -13,18 +13,19 @@ namespace WheelOfFortune
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+                int playerGameBank = 0;
 
+                int roundCounter = 1;
             string keepPlaying = "y";
             while (keepPlaying == "y")
             {
                 //gameplay begins below this line.
-                int playerGameBank = 0;
 
                 //rounds 1 and 2 are the first switch case
-                int roundCounter = 0;
                 //this while loop handles the first two rounds
                 while (roundCounter < 3)
                 {
+                    Console.WriteLine($"Round {roundCounter}");
                     roundCounter++;
                     int secretPhraseInt = random.Next(1, PhraseHandler.secretPhrases.Length);//gets random number to select the secret phrase
                     string secretPhraseCamelCase = PhraseHandler.secretPhrases[secretPhraseInt];//gets the secret phrase using the random number
@@ -41,7 +42,7 @@ namespace WheelOfFortune
                     char[] displayWordArray = displayHiddenPhrase.ToArray();
 
 
-                    while (!puzzleComplete)
+                    while (puzzleComplete == false)
                     {
 
                         Console.Write("What would the player like to do (spin/vowel/guess): ");
@@ -201,6 +202,8 @@ namespace WheelOfFortune
                                     Console.WriteLine($"Player Round Total Winnings: {playerRoundBank}");
                                     Console.WriteLine($"Player Game Total Winiings:  {playerGameBank}");
                                     puzzleComplete = true;
+                                    guessedLetters.Clear();
+                                    guessedVowels.Clear();
                                     break;
                                 }
                                 else
